@@ -1,0 +1,12 @@
+openapi: 3.0.0
+info:
+  title: 'Documentation for Practise Laravel'
+  description: 'Getting started with Laravel and Swagger'
+  termsOfService: ''
+  contact:
+    email: name@example.com
+  version: 1.0.0
+schemes:
+  - http
+host: practise-laravel.slk/
+basePath: /
